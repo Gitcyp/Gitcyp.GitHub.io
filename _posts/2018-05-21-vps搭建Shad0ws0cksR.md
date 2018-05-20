@@ -9,4 +9,6 @@ catalog: true
 tags:                               
     - cool
 ---
-
+## 1.购买vultr上的服务器
+此处是链接：https://my.vultr.com/
+接下去创建一个账号，之后选择vps服务器。
